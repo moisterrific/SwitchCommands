@@ -16,7 +16,7 @@ Allows players to run a list of commands by hitting a lever/switch or stepping o
 - /switch done - Finalizes switch editing
 Use $name in your commands to use the name of the person who hit the switch.
 
-### Permissions
+## Permissions
 switchcommands - Allows the use of the /switch command
 
 Source: [Switch Commands | TShock for Terraria](https://tshock.co/xf/index.php?resources/switch-commands.222/)
